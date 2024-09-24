@@ -1,97 +1,97 @@
-﻿Item,Price
-1/2 gallon milk,3.99
-1/2 gallon OJ,5.09
-Milk pints,1.89
-Silk almond milk,3.79
-Pearl soy milk,1.79
-Naked Juice,5.89
-Chocolate QT,3.09
-Parkay Bunter Stick, 3.99 
-Parkay Squeeze, 4.29 
-Cake Squares, 2.79 
-Hot Dogs, 4.99 
-Shredded Cheese, 6.29 
-Eggs, 5.90 
-Nestle Cookie Dough, 8.89 
-Cookie Dough Bites, 3.39 
-Bacon, 6.90 
-Lunchables, 4.89 
-Lunchable Box, 5.19 
-Coffee Creamer, 4.99 
-Sargento Snack, 2.49 
-Ham/Turkey, 1.29 
-Bologna, 4.09 
-Uncrustables, 1.49 
-Cheesecake, 4.99 
-Sabra Snack, 3.99 
-Cracker Barrel, 0.89 
-Babybel Cheese, 1.29 
-Fruit Cups, 2.59 
-Chobani, 2.59 
-Cheese Pleasers, 4.49 
-Tyson Sandwich, 5.79 
-Sargento Cheese Bar, 1.69 
-Sargento Cheese Stick, 1.29 
-Dressing Packets, 0.49 
-Tru Fru, 8.69 
-Fruit Cups, 4.99 
-Assorted Berries, 7.99 
-Sabra Avocado Toast, 5.39 
-Hiland SC, 3.29 
-Pepperoni Tray, 11.19 
-Cream Cheese, 6.99 
-NoKa, 3.69 
-Gogurt, 0.89 
-OH Snap Cranberry, 2.49 
-Hormel Pepperoni, 6.99 
-Sliced Apples and Caramel, 1.99 
-Chobani Flip, 3.89 
-Lunch Box Snack Trays, 5.19 
-Jimmy Dean BB, 5.99 
-Deli Express BS, 4.89 
-Deli Express Chorizo, 5.69 
-Breakfast Scrambler, 5.19 
-TSO's Chicken, 7.49 
-Orange Chicken, 7.49 
-Tai Pei, 6.89 
-Chicken Pot Pie, 1.99 
-Corn, 3.99 
-Mixed Veggies, 4.79 
-Waffles, 5.39 
-Easy Fries, 3.49 
-Bosco Stick, 1.49 
-El Monterey, 2.99 
-DUT El Monterey Big Burrito, 3.59 
-XXL Burrito, 2.49 
-Devour, 6.59 
-Toaster Strudel, 6.29 
-Banquet, 2.50 
-Stouffer Lasagna, 5.50 
-Stouffers, 4.99 
-Potstickers, 7.59 
-Egg Rolls, 5.19 
-White Castle, 6.89 
-Pizza Voll Box, 6.19 
-Pizza Roll Bag, 10.39 
-Ground Beef, 6.99 
-Mozzarella Sticks, 6.50 
-Party Pizza, 4.69 
-Sandwich, 2.09 
-Snickers, 2.39 
-Twix, 2.39 
-Character, 2.09 
-M&M SW, 2.99 
-Choc M&M SW, 2.99 
-Big Papper SW, 4.29 
-Cookies & Cream, 2.59 
-Vanilla Crunch, 1.99 
-Strawberry Shortcake, 2.59 
-Icee, 1.79 
-Ben & Jerry's Pint, 7.99 
-Blue Bunny Pint, 5.49 
-Cone, 2.49 
-King Cone, 2.89 
-Cookies & Cream SW, 2.19 
-Fla-Vor-Ice, 0.59 
-Bomb Pop, 2.69 
-Italian Ice, 1.69 
+﻿Item,Price,Abbreviation,Type
+1/2 gallon milk,3.99,HGML,refrigerated
+1/2 gallon OJ,5.09,HGOJ,refrigerated
+Milk pints,1.89,MILP,refrigerated
+Silk almond milk,3.79,SALM,refrigerated
+Pearl soy milk,1.79,PSOY,refrigerated
+Naked Juice,5.89,NAKJ,refrigerated
+Chocolate QT,3.09,CHQT,refrigerated
+Parkay Bunter Stick,3.99,PBSK,refrigerated
+Parkay Squeeze,4.29,PSQZ,refrigerated
+Cake Squares,2.79,CAKS,refrigerated
+Hot Dogs,4.99,HTDG,refrigerated
+Shredded Cheese,6.29,SHCH,refrigerated
+Eggs,5.9,EGGS,refrigerated
+Nestle Cookie Dough,8.89,NCDG,refrigerated
+Cookie Dough Bites,3.39,CDBT,refrigerated
+Bacon,6.9,BACN,refrigerated
+Lunchables,4.89,LNCH,refrigerated
+Lunchable Box,5.19,LBXB,refrigerated
+Coffee Creamer,4.99,COFC,refrigerated
+Sargento Snack,2.49,SNSK,refrigerated
+Ham/Turkey,1.29,HAMT,refrigerated
+Bologna,4.09,BOLG,refrigerated
+Uncrustables,1.49,UNCR,refrigerated
+Cheesecake,4.99,CHEK,refrigerated
+Sabra Snack,3.99,SBSK,refrigerated
+Cracker Barrel,0.89,CRKB,refrigerated
+Babybel Cheese,1.29,BBCS,refrigerated
+Fruit Cups,2.59,FRTC,refrigerated
+Chobani,2.59,CHBN,refrigerated
+Cheese Pleasers,4.49,CHPL,refrigerated
+Tyson Sandwich,5.79,TYSD,refrigerated
+Sargento Cheese Bar,1.69,SCHB,refrigerated
+Sargento Cheese Stick,1.29,SCHS,refrigerated
+Dressing Packets,0.49,DRPK,refrigerated
+Tru Fru,8.69,TFRU,refrigerated
+Fruit Cups,4.99,FRTC,refrigerated
+Assorted Berries,7.99,ASBR,refrigerated
+Sabra Avocado Toast,5.39,SATF,refrigerated
+Hiland SC,3.29,HLSC,refrigerated
+Pepperoni Tray,11.19,PEPT,refrigerated
+Cream Cheese,6.99,CRCH,refrigerated
+NoKa,3.69,NOKA,refrigerated
+Gogurt,0.89,GOGR,refrigerated
+OH Snap Cranberry,2.49,OSCR,refrigerated
+Hormel Pepperoni,6.99,HRMP,refrigerated
+Sliced Apples and Caramel,1.99,SAPL,refrigerated
+Chobani Flip,3.89,CHFL,refrigerated
+Lunch Box Snack Trays,5.19,LBSN,frozen
+Jimmy Dean BB,5.99,JDBB,frozen
+Deli Express BS,4.89,DEBS,frozen
+Deli Express Chorizo,5.69,DECH,frozen
+Breakfast Scrambler,5.19,BFSB,frozen
+TSO's Chicken,7.49,TSCK,frozen
+Orange Chicken,7.49,ORCK,frozen
+Tai Pei,6.89,TAIP,frozen
+Chicken Pot Pie,1.99,CHPP,frozen
+Corn,3.99,CORN,frozen
+Mixed Veggies,4.79,MVGS,frozen
+Waffles,5.39,WAFF,frozen
+Easy Fries,3.49,EFRY,frozen
+Bosco Stick,1.49,BSTK,frozen
+El Monterey,2.99,ELMO,frozen
+DUT El Monterey Big Burrito,3.59,DUTB,frozen
+XXL Burrito,2.49,XXLB,frozen
+Devour,6.59,DEVR,frozen
+Toaster Strudel,6.29,TSTR,frozen
+Banquet,2.5,BANQ,frozen
+Stouffer Lasagna,5.5,STLG,frozen
+Stouffers,4.99,STFR,frozen
+Potstickers,7.59,POTS,frozen
+Egg Rolls,5.19,EGRO,frozen
+White Castle,6.89,WTCL,frozen
+Pizza Voll Box,6.19,PIZV,frozen
+Pizza Roll Bag,10.39,PIZR,frozen
+Ground Beef,6.99,GRBF,frozen
+Mozzarella Sticks,6.5,MZST,frozen
+Party Pizza,4.69,PTZA,frozen
+Sandwich,2.09,SNDW,frozen
+Snickers,2.39,SNCK,frozen
+Twix,2.39,TWIX,frozen
+Character,2.09,CHAR,frozen
+M&M SW,2.99,MMSW,frozen
+Choc M&M SW,2.99,CMMS,frozen
+Big Papper SW,4.29,BPSW,frozen
+Cookies & Cream,2.59,CCRM,frozen
+Vanilla Crunch,1.99,VNCH,frozen
+Strawberry Shortcake,2.59,SSCK,frozen
+Icee,1.79,ICEE,frozen
+Ben & Jerry's Pint,7.99,BNJP,frozen
+Blue Bunny Pint,5.49,BBNP,frozen
+Cone,2.49,CONE,frozen
+King Cone,2.89,KCON,frozen
+Cookies & Cream SW,2.19,CCSW,frozen
+Fla-Vor-Ice,0.59,FLIC,frozen
+Bomb Pop,2.69,BPOP,frozen
+Italian Ice,1.69,ITIC,frozen
