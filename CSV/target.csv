@@ -1,4 +1,4 @@
-Item, Price, Abbreviation, Type
+Item,Price,Abbreviation,Type
 1/2 gallon milk,1.69,HGML,refrigerated
 1/2 gallon OJ,4.29,HGOJ,refrigerated
 Milk pints,1.39,MILP,refrigerated
@@ -54,7 +54,7 @@ Breakfast Scrambler,5.19,BFSB,frozen
 TSO's Chicken,6.39,TSCK,frozen
 Orange Chicken,6.39,ORCK,frozen
 Tai Pei,6.19,TAIP,frozen
-Chicken Pot Pie,0.99,CHPP,frozen
+Chicken Pot Pie,1.99,CHPP,frozen
 Corn,2.29,CORN,frozen
 Mixed Veggies,2.19,MVGS,frozen
 Waffles,4.19,WAFF,frozen
