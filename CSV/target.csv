@@ -1,0 +1,107 @@
+Item,Price,Abbreviation,Type
+1/2 gallon milk,1.69,HGML,refrigerated
+1/2 gallon OJ,4.29,HGOJ,refrigerated
+Milk pints,1.39,MILP,refrigerated
+Silk almond milk,3.19,SALM,refrigerated
+Pearl soy milk,1.79,PSOY,refrigerated
+Naked Juice,3.29,NAKJ,refrigerated
+Chocolate QT,3.09,CHQT,refrigerated
+Parkay Bunter Stick,2.39,PBSK,refrigerated
+Parkay Squeeze,3.49,PSQZ,refrigerated
+Cake Squares,2.19,CAKS,refrigerated
+Hot Dogs,4.29,HTDG,refrigerated
+Shredded Cheese,4.39,SHCH,refrigerated
+Eggs,3.59,EGGS,refrigerated
+Nestle Cookie Dough,6.89,NCDG,refrigerated
+Cookie Dough Bites,3.99,CDBT,refrigerated
+Bacon,5.99,BACN,refrigerated
+Lunchables,1.99,LNCH,refrigerated
+Lunchable Box,2.99,LBXB,refrigerated
+Coffee Creamer,4.29,COFC,refrigerated
+Sargento Snack,3.49,SNSK,refrigerated
+Ham/Turkey,1.29,HAMT,refrigerated
+Bologna,2.99,BOLG,refrigerated
+Uncrustables,0.99,UNCR,refrigerated
+Cheesecake,2.99,CHEK,refrigerated
+Sabra Snack,2.49,SBSK,refrigerated
+Cracker Barrel,0.79,CRKB,refrigerated
+Babybel Cheese,1.69,BBCS,refrigerated
+Fruit Cups,2.79,FRTC,refrigerated
+Chobani,1.39,CHBN,refrigerated
+Cheese Pleasers,4.49,CHPL,refrigerated
+Tyson Sandwich,5.29,TYSD,refrigerated
+Sargento Cheese Bar,0.69,SCHB,refrigerated
+Sargento Cheese Stick,1.19,SCHS,refrigerated
+Dressing Packets,0.49,DRPK,refrigerated
+Tru Fru,7.29,TFRU,refrigerated
+Fruit Cups,5.29,FRTC,refrigerated
+Assorted Berries,8.99,ASBR,refrigerated
+Sabra Avocado Toast,3.39,SATF,refrigerated
+Hiland SC,2.79,HLSC,refrigerated
+Pepperoni Tray,9.99,PEPT,refrigerated
+Cream Cheese,4.99,CRCH,refrigerated
+NoKa,2.69,NOKA,refrigerated
+Gogurt,0.49,GOGR,refrigerated
+OH Snap Cranberry,1.59,OSCR,refrigerated
+Hormel Pepperoni,3.99,HRMP,refrigerated
+Sliced Apples and Caramel,2.79,SAPL,refrigerated
+Chobani Flip,1.49,CHFL,refrigerated
+Lunch Box Snack Trays,2.99,LBSN,frozen
+Jimmy Dean BB,2.99,JDBB,frozen
+Deli Express BS,3.79,DEBS,frozen
+Deli Express Chorizo,4.29,DECH,frozen
+Breakfast Scrambler,5.19,BFSB,frozen
+TSO's Chicken,6.39,TSCK,frozen
+Orange Chicken,6.39,ORCK,frozen
+Tai Pei,6.19,TAIP,frozen
+Chicken Pot Pie,1.99,CHPP,frozen
+Corn,2.29,CORN,frozen
+Mixed Veggies,2.19,MVGS,frozen
+Waffles,4.19,WAFF,frozen
+Easy Fries,4.69,EFRY,frozen
+Bosco Stick,0.99,BSTK,frozen
+El Monterey,1.49,ELMO,frozen
+DUT El Monterey Big Burrito,2.29,DUTB,frozen
+XXL Burrito,2.29,XXLB,frozen
+Devour,3.79,DEVR,frozen
+Toaster Strudel,3.99,TSTR,frozen
+Banquet,1.79,BANQ,frozen
+Stouffer Lasagna,3.59,STLG,frozen
+Stouffers,3.59,STFR,frozen
+Potstickers,7.49,POTS,frozen
+Egg Rolls,3.99,EGRO,frozen
+White Castle,6.39,WTCL,frozen
+Pizza Voll Box,5.99,PIZV,frozen
+Pizza Roll Bag,12.99,PIZR,frozen
+Ground Beef,6.49,GRBF,frozen
+Mozzarella Sticks,6.99,MZST,frozen
+Party Pizza,2.19,PTZA,frozen
+Sandwich,1.49,SNDW,frozen
+Snickers,1.39,SNCK,frozen
+Twix,1.39,TWIX,frozen
+Character,1.39,CHAR,frozen
+M&M SW,1.39,MMSW,frozen
+Choc M&M SW,1.39,CMMS,frozen
+Big Papper SW,3.39,BPSW,frozen
+Cookies & Cream,2.19,CCRM,frozen
+Vanilla Crunch,1.89,VNCH,frozen
+Strawberry Shortcake,2.19,SSCK,frozen
+Icee,1.19,ICEE,frozen
+Ben & Jerry's Pint,4.99,BNJP,frozen
+Blue Bunny Pint,4.19,BBNP,frozen
+Cone,1.29,CONE,frozen
+King Cone,1.89,KCON,frozen
+Cookies & Cream SW,2.19,CCSW,frozen
+Fla-Vor-Ice,0.49,FLIC,frozen
+Bomb Pop,0.99,BPOP,frozen
+Italian Ice,1.19,ITIC,frozen
+Propel Strawberry Kiwi, 1.19, PPLS, refrigerated
+Propel Grape, 1.19, PPLG, refrigerated
+Propel Watermelon, 1.19, PPLW, refrigerated
+M&M Peanut Butter Stand Up Bag, 4.89, MMPB, shelf
+M&M Plain Stand Up Bag, 4.89, MMPL, shelf
+M&M Peanut Stand Up Bag, 4.89, MMPN, shelf
+Doritos Cool Ranch Party Size, 6.69, DCRP, shelf
+Doritos Nacho Cheese Party Size, 6.69, DNCP, shelf
+Doritos Spicy Nacho Party Size, 6.69, DSNP, shelf
+Baja Blast Zero 12pk, 7.19, BB12, shelf
